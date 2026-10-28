@@ -1,3 +1,7 @@
 eqwewqewqewqewqeqweqweq
 
+<<<<<<< HEAD
 đây là dòng lỗi
+=======
+đây là saiiiiiiiiiiiiiii
+>>>>>>> c3596ed8c253f1237407635eeedd6d7ceed9bf42
